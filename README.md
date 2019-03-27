@@ -2,6 +2,7 @@
 Apollo GraphQL Simple Application
 
 Run the file using the command : npm run build
+
 Naviagate to the url : http://localhost:4000/graphiql
 
 On the left side panel, enter the following command : 
